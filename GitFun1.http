@@ -1,0 +1,6 @@
+@GitFun1_HostAddress = http://localhost:5288
+
+GET {{GitFun1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
